@@ -1,4 +1,7 @@
 # github_pages_101
-GitHub Pages Exercise ===========
-Involves * git * GitHub
+GitHub Pages Exercise 
+===========
+Involves 
+* git
+* GitHub
 * SSH
